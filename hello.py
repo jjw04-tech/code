@@ -1,0 +1,5 @@
+print("Hello this is my first python program")
+name = input("What is your name?")
+print(f"hello, {name}")
+favorite_song = input("What is your favorite song?")
+print(f"Nice! I might've listned to {favorite_song} as well.")
